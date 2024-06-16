@@ -1,12 +1,8 @@
 {
     "image": "mcr.microsoft.com/devcontainers/universal:2",
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "GitHub.copilot",
-                "GitHub.copilot-chat",
-                "ritwickdey.LiveServer"
-            ]
-        }
-    }
+    "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ritwickdey.LiveServer"
+    ]
 }
